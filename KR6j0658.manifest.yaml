@@ -1,0 +1,213 @@
+canonical_identifier: bkk:krp/KR6j0658/v1
+canonical_location: https://kanripo.org/bkk/KR6j0658/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說造像量度經解
+  identifiers:
+    alt_id:
+    - T21n1419
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1419.xml
+    old_id: T21n1419
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0658_000.yaml, hash: 'sha256:1554c96f565114a41dbcad5cd0de39097ca3701474b97b7a83a9d7a81e46b154'}
+  - {seq: 1, filename: KR6j0658_001.yaml, hash: 'sha256:828875a226ddc21a00b092cc887da4329770d0f02955056d4d4af77eb7dc6652'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0658_000.markers.yaml, hash: 'sha256:ea1ba68fa2285164e8b1a39aa9ec3fa9650270c8157d18c0332308ad6b63ddad'}
+  - {seq: 1, role: markers, filename: assets/KR6j0658_001.markers.yaml, hash: 'sha256:75519f76e948333eaa4613e4ed28da5cfa1e2ac013b4f6d3169c9be03877d490'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0658_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 造像量度經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0658_T_000-mulu-2
+    span:
+    - front
+    - 443
+    - 443
+  label: 造像量度經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0658_T_000-mulu-3
+    span:
+    - front
+    - 999
+    - 999
+  label: 佛說造像量度經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0658_T_000-mulu-4
+    span:
+    - front
+    - 2251
+    - 2251
+  label: 佛像量度經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0658_T_000-mulu-5
+    span:
+    - front
+    - 2986
+    - 2986
+  label: 佛像量度經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0658_T_000-mulu-6
+    span:
+    - front
+    - 3432
+    - 3432
+  label: 造像量度經引
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0658_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 23082
+  label: 佛說造像量度經解
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0658_T_001-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 佛說造像量度經解
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0658_T_001-mulu-2
+    span:
+    - body
+    - 6450
+    - 6450
+  label: 造像量度經續補
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0658_T_001-mulu-3
+    span:
+    - body
+    - 6469
+    - 6469
+  label: 一菩薩像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0658_T_001-mulu-4
+    span:
+    - body
+    - 9589
+    - 9589
+  label: 二九搩度
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0658_T_001-mulu-5
+    span:
+    - body
+    - 10277
+    - 10277
+  label: 三八搩度
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0658_T_001-mulu-6
+    span:
+    - body
+    - 11046
+    - 11046
+  label: 四護法像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0658_T_001-mulu-7
+    span:
+    - body
+    - 12137
+    - 12137
+  label: 五威儀式
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0658_T_001-mulu-8
+    span:
+    - body
+    - 14122
+    - 14122
+  label: 六妄造誡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0658_T_001-mulu-9
+    span:
+    - body
+    - 14978
+    - 14978
+  label: 七徙靈略
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0658_T_001-mulu-10
+    span:
+    - body
+    - 15743
+    - 15743
+  label: 八裝藏略
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0658_T_001-mulu-11
+    span:
+    - body
+    - 18233
+    - 18233
+  label: 九造像福
+  type: mulu
+  level: 1
+hash: sha256:c060061f82971b72c3999910bbc1d296e17c6bca72eaf2aab04db4c6915c6ea1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
