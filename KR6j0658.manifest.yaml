@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0658/v1
 canonical_location: https://kanripo.org/bkk/KR6j0658/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說造像量度經解
   identifiers:
@@ -21,11 +21,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0658_000.yaml, hash: 'sha256:00e75b87ac96bab9575230ef96d910173a045b83d7b3eb9d9f6df4c61c704a1b'}
-  - {seq: 1, filename: KR6j0658_001.yaml, hash: 'sha256:0fcc4a70ae04c7a144b8b3fedd573d6377d62e8d825e949f6788bfe6a25911d7'}
+  - {seq: 0, filename: KR6j0658_000.yaml, hash: 'sha256:b428ddbdd34b1b877a3a896a44996de15c67185d930dbbbce282c450a45efe28'}
+  - {seq: 1, filename: KR6j0658_001.yaml, hash: 'sha256:d039f2b09d5cbeab37f54f6ddfd3d48e84237e985d99cb5a5c3d86a78ca731cc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0658_000.markers.yaml, hash: 'sha256:7a21b070499d6f85213078122b865f40fa5daacf063c60f2e11285b2c451438e'}
-  - {seq: 1, role: markers, filename: assets/KR6j0658_001.markers.yaml, hash: 'sha256:c17db761d71a4b6c6c6bdca92c30be50b02cf21d69ba3cc76a8421cdecaf03aa'}
+  - {seq: 0, role: markers, filename: assets/KR6j0658_000.markers.yaml, hash: 'sha256:d6c9c6e16acac3d8b4bd23d31ae269ced5cbd1743f963da0f78b1b4b9c3df1c1'}
+  - {seq: 1, role: markers, filename: assets/KR6j0658_001.markers.yaml, hash: 'sha256:a81a6eaa693a73117e529efd87679c0a58c592b31412b8f5889ef720e003a452'}
 table_of_contents:
 - ref:
     seq: 0
@@ -207,4 +207,7 @@ table_of_contents:
   label: 九造像福
   type: mulu
   level: 1
-hash: sha256:969ca28ad4bef424722cec339465a7bbeefa48e8d54c173453b21a7273663941
+hash: sha256:535efa083ec8af360ec29f071141cb9624290014f18026224b6b4a33ccfbc32d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
