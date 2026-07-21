@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0658_000-T.yaml, hash: 'sha256:00e75b87ac96bab9575230ef96d910173a045b83d7b3eb9d9f6df4c61c704a1b'}
+  - {seq: 0, filename: KR6j0658_000-T.yaml, hash: 'sha256:4b421e7cafc6a7dcb9bec9ae228ea3f18952fb48c5a955722dcb3a6b4b0977a9'}
   - {seq: 1, filename: KR6j0658_001-T.yaml, hash: 'sha256:0fcc4a70ae04c7a144b8b3fedd573d6377d62e8d825e949f6788bfe6a25911d7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0658_000-T.markers.yaml, hash: 'sha256:236da008074ce4406505ea2e579318f50811dbcdae4734f832b4763ec0391053'}
+  - {seq: 0, role: markers, filename: assets/KR6j0658_000-T.markers.yaml, hash: 'sha256:12783ed42937d7b3cb4174ddabb01bcb0884264d15024cae6dd1cfbee5b1b674'}
   - {seq: 1, role: markers, filename: assets/KR6j0658_001-T.markers.yaml, hash: 'sha256:cda7fec611eeef030ea06e8f43ea66d0fc575fcf70e459aa429f49c5ad564ca5'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6j0658_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 造像量度經序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0658_T_000-mulu-2
     span:
-    - front
+    - body
     - 443
     - 443
   label: 造像量度經序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0658_T_000-mulu-3
     span:
-    - front
+    - body
     - 999
     - 999
   label: 佛說造像量度經序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0658_T_000-mulu-4
     span:
-    - front
+    - body
     - 2251
     - 2251
   label: 佛像量度經序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0658_T_000-mulu-5
     span:
-    - front
+    - body
     - 2986
     - 2986
   label: 佛像量度經序
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0658_T_000-mulu-6
     span:
-    - front
+    - body
     - 3432
     - 3432
   label: 造像量度經引
@@ -205,4 +205,4 @@ table_of_contents:
   label: 九造像福
   type: mulu
   level: 1
-hash: sha256:c0028c2a126fe860b0a77ea9054ed985b8c798c336e98071f76298476210b271
+hash: sha256:ce1cee30c9c968bd40167e16c84bd53d5d38294dfb3744d390ed9c3e343830a7

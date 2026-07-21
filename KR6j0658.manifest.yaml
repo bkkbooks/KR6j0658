@@ -21,17 +21,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0658_000.yaml, hash: 'sha256:b428ddbdd34b1b877a3a896a44996de15c67185d930dbbbce282c450a45efe28'}
+  - {seq: 0, filename: KR6j0658_000.yaml, hash: 'sha256:5895b0f7e434cbf1d5ab7ebc468dbdb38d3319031e8b0b8bf24c45be843e0250'}
   - {seq: 1, filename: KR6j0658_001.yaml, hash: 'sha256:d039f2b09d5cbeab37f54f6ddfd3d48e84237e985d99cb5a5c3d86a78ca731cc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0658_000.markers.yaml, hash: 'sha256:d6c9c6e16acac3d8b4bd23d31ae269ced5cbd1743f963da0f78b1b4b9c3df1c1'}
+  - {seq: 0, role: markers, filename: assets/KR6j0658_000.markers.yaml, hash: 'sha256:c093a915d898a4a213b1b10e04c87efee1056bfbde80cfe9d21f4c1527e277b2'}
   - {seq: 1, role: markers, filename: assets/KR6j0658_001.markers.yaml, hash: 'sha256:a81a6eaa693a73117e529efd87679c0a58c592b31412b8f5889ef720e003a452'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6j0658_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 造像量度經序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0658_T_000-mulu-2
     span:
-    - front
+    - body
     - 443
     - 443
   label: 造像量度經序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0658_T_000-mulu-3
     span:
-    - front
+    - body
     - 999
     - 999
   label: 佛說造像量度經序
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0658_T_000-mulu-4
     span:
-    - front
+    - body
     - 2251
     - 2251
   label: 佛像量度經序
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0658_T_000-mulu-5
     span:
-    - front
+    - body
     - 2986
     - 2986
   label: 佛像量度經序
@@ -81,7 +81,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0658_T_000-mulu-6
     span:
-    - front
+    - body
     - 3432
     - 3432
   label: 造像量度經引
@@ -207,7 +207,7 @@ table_of_contents:
   label: 九造像福
   type: mulu
   level: 1
-hash: sha256:535efa083ec8af360ec29f071141cb9624290014f18026224b6b4a33ccfbc32d
+hash: sha256:9c0f26e5a62ab0e8771ee4d3786b2ca5becaf03d0a1258258296998e9cdb40c5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
